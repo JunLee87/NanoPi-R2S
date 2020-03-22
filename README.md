@@ -7,6 +7,7 @@ NanoPi R2S 购买链接: [https://s.click.taobao.com/rFvYQpv](https://s.click.ta
 * 密码: password
 
 ## 特色
+* 开启dockerman
 * 支持 RTL8821CU 芯片的 USB WiFi 设备，已知支持列表：
     - [COMFAST 726B](https://u.jd.com/DOkkhX)
     - [COMFAST CF-759BF](https://u.jd.com/C2ivH7)
